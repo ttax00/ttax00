@@ -1,10 +1,10 @@
-# Hello world. There is much to learn! 
+# Hello world! There is so much to learn.
 
 🌊 I'm Tech, a hobbyist developer situating in Tokyo.
 
 🔭 Curiosity driven, with a healthy emphasis on safe, performant, and ergonomic programming patterns.   
 
-🌱 I’m making an effort to learn Rust. 
+🌱 I’m making an effort to learn [Rust](https://www.rust-lang.org/). 
 
 ## Tools and languages
 
