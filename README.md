@@ -1,6 +1,6 @@
 # Hello world! There is so much to learn.
 
-🌊 I'm Tech, a hobbyist developer situating in Tokyo.
+🌊 I'm a passionate developer situating in Tokyo.
 
 🔭 Curiosity driven, with a healthy emphasis on safe, performant, and ergonomic programming patterns.   
 
